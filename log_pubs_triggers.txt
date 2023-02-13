@@ -1,0 +1,2 @@
+Triggers
+{'employee': ['UPDATE', 'INSERT', 'Activo']}
