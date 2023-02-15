@@ -1,0 +1,2 @@
+Anomalias de Datos
+[['[dbo].[Table1]', "[Col1] = '100'"]]

@@ -1,0 +1,2 @@
+Anomalias de Datos
+['No se han encontrado anomalias']
